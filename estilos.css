@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(238, 236, 109);
+}
+#NombrePrac{
+    display: inline-block;
+    margin-top: 50px;
+}
+.nav-link{
+    color: thistle;
+    font-size: large;
+}
+h2{
+    color: palevioletred;
+    text-align: center;
+}
+h3{
+    color: tomato;
+    text-align: center;
+    font-size: 3.5em;
+}
+h4{
+    color: violet;
+    text-align: center;
+    font-size: 3em;
+}
+.inicio{
+    font-size: 2em;
+    text-align: justify;
+}
+.f1{
+    width: 40%;
+    display: block;
+    margin: auto;
+}
+.centro{
+    text-align: center;
+}
+p{
+    font-size: 1.5em;
+    text-align: justify;
+}
+.card-text{
+    font-size: 1em;
+    text-align: justify;
+}
+.card{
+    display: block;
+    margin: auto;
+}
+img{
+    margin: auto;
+}
